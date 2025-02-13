@@ -12,3 +12,4 @@ C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\refint\buscaBinaria.dll
 C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.pdb
 C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.genruntimeconfig.cache
 C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\ref\buscaBinaria.dll
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.sourcelink.json
