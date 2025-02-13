@@ -1,0 +1,14 @@
+C:\dotNetEstudos\buscaBinaria\bin\Debug\net9.0\buscaBinaria.exe
+C:\dotNetEstudos\buscaBinaria\bin\Debug\net9.0\buscaBinaria.deps.json
+C:\dotNetEstudos\buscaBinaria\bin\Debug\net9.0\buscaBinaria.runtimeconfig.json
+C:\dotNetEstudos\buscaBinaria\bin\Debug\net9.0\buscaBinaria.dll
+C:\dotNetEstudos\buscaBinaria\bin\Debug\net9.0\buscaBinaria.pdb
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.AssemblyInfoInputs.cache
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.AssemblyInfo.cs
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.csproj.CoreCompileInputs.cache
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.dll
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\refint\buscaBinaria.dll
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.pdb
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\buscaBinaria.genruntimeconfig.cache
+C:\dotNetEstudos\buscaBinaria\obj\Debug\net9.0\ref\buscaBinaria.dll
